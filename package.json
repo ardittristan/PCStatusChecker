@@ -1,0 +1,17 @@
+{
+  "name": "pcstatuschecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pccheck.js",
+  "scripts": {
+    "test": "node pccheck.js"
+  },
+  "author": "ardittristan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-webhooks": "^1.4.2",
+    "p-timeout": "^3.2.0",
+    "url-exists": "^1.0.3"
+  }
+}
